@@ -25,13 +25,13 @@ async def start(client, message):
 
 I can convert Image to PDF.
 
-This bot was created by @epusthakalaya_bots""",reply_to_message_id = message.message_id ,  reply_markup=InlineKeyboardMarkup(
+This bot was created by @A13X60""",reply_to_message_id = message.message_id ,  reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ" ,url="https://t.me/epusthakalayabotsupport"),
-                    InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ" ,url="https://t.me/epusthakalaya_bots"),
+                    InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ" ,url="https://t.me/A13X60"),
+                    InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ" ,url="https://t.me/A13X60"),
                 ],
-                 [InlineKeyboardButton("ʀᴇᴠɪᴇᴡ ᴍᴇ", url="https://t.me/tlgrmcbot?start=epu_imagetopdf_bot") ]       
+                 [InlineKeyboardButton("ʀᴇᴠɪᴇᴡ ᴍᴇ", url="https://t.me/A13X60") ]       
             ]        
  )
  )
